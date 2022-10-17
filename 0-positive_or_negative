@@ -1,0 +1,15 @@
+#include<stdlib.h>
+#include<time. h>
+#include<stdio.h >
+/**
+* main - prints a series of numbers with commas
+*
+* Return:always (Success ) 
+*/
+int main(void)
+{
+    int n;
+srand time(0)) ;
+n=rand() - RAND MAX/2;
+if (n>0)
+pritf(
